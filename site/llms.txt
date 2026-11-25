@@ -81,6 +81,8 @@ Map: https://www.google.com/maps/search/?api=1&query=Bilvaradhahalli%2C%20Banner
 - [Price](https://prestigebannerghattaroad.in/price): plots and villas, with prices on request
 - [Gallery](https://prestigebannerghattaroad.in/gallery): artistic impressions of villas, streets and gardens
 - [FAQs](https://prestigebannerghattaroad.in/faqs): location, plots and villas, price, size, amenities and the developer
+- [About Prestige Group](https://prestigebannerghattaroad.in/about-builder): the developer, Prestige Group: its history, stock listing, businesses, cities and Bengaluru homes
+- [Prestige Bannerghatta Road vs DNR Jigani](https://prestigebannerghattaroad.in/vs-dnr-jigani): this project and DNR Jigani compared on location, land, plots and villas, prices, amenities and who each one suits
 - [Contact](https://prestigebannerghattaroad.in/contact-us): register interest in the project
 
 ## Contact
